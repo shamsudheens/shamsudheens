@@ -1,7 +1,4 @@
 <!-- PROFILE HEADER -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" style="border-radius: 50%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Shamsudheen</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast</h3>
