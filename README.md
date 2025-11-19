@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 
-<h1 align="center">Hi 👋, I'm Shamsudheen</h1>
+<h1 align="center">Hi, I'm Shamsudheen</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast</h3>
 
 ## 🌐 Socials
