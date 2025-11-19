@@ -59,9 +59,3 @@
 > — **Bill Gates**
 
 ---
-
-## ☕ Support Me
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/shamsudheens)
-
----
