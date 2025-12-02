@@ -35,6 +35,7 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP_Server-6f42c1?style=for-the-badge&logo=minecraft&logoColor=white)
 
 ---
 
