@@ -44,7 +44,8 @@
 <div align="center">
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamsudheens&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shamsudheens&theme=dark&hide_border=false)
+
 
 
 </div>
