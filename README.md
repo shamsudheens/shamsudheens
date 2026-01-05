@@ -1,7 +1,8 @@
 <!-- PROFILE HEADER -->
 
 <h1 align="center">Hi, I'm Shamsudheen</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer </h3>
+<p>Full stack developer with 2+ years of coding experience and almost 1 year in professional development. Led, developed and delivered 3+ projects from scratch, handling both frontend and backend with a focus on clean, reliable solutions.</p>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/sham_su_dheen_)
