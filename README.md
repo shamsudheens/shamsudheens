@@ -11,13 +11,14 @@ To see my works explore the repos.
 
 <ul>
   <li>💬 Ask me about <strong>MERN</strong></li>
-  <li>📫 How to reach me <a href="mailto:shamsudheensofficial@gmail.com">contact@shamsudheen.dev</a></li>
+  <li>📫 How to reach me <a href="mailto:shamsudheensofficial@gmail.com">shamsudheensofficial@gmail.com</a></li>
 </ul>
 
 <p><strong>Connect with me</strong></p>
 <ul>
   <li><a href="https://www.linkedin.com/in/shamsudheens">LinkedIn</a></li>
   <li><a href="https://www.instagram.com/sham_su_dheen_">Instagram</a></li>
+  <li><a href="https://shamsudheenportfolio.vercel.app/">Portfolio/a></li>
 </ul>
 
 <p><strong>Languages and Tools</strong></p>
