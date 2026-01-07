@@ -1,19 +1,33 @@
-Hi 👋, I'm Shamsudheen S
+<h2>Hi 👋, I'm Shamsudheen S</h2>
 
-A passionate full-stack developer.
+<p><strong>A passionate full-stack developer.</strong></p>
 
-I am a full-stack developer with hands-on experience in building scalable web applications. Focused on full stack development using the MERN stack and modern backend technologies. Interested in system design, microservices architecture, and AI-powered applications. To see my works explore the repos.
+<p>
+I am a full-stack developer with hands-on experience in building scalable web applications.
+Focused on full stack development using the MERN stack.
+Interested in system design, microservices architecture, and AI-powered applications.
+To see my works explore the repos.
+</p>
 
-💬 Ask me about MERN  
-📫 How to reach me [contact@shamsudheen.dev](mailto:shamsudheensofficial@gmail.com)
+<ul>
+  <li>💬 Ask me about <strong>MERN</strong></li>
+  <li>📫 How to reach me <a href="mailto:shamsudheensofficial@gmail.com">contact@shamsudheen.dev</a></li>
+</ul>
 
-Connect with me
-- [LinkedIn](https://www.linkedin.com/in/shamsudheens)
-- [Instagram](https://www.instagram.com/sham_su_dheen_)
+<p><strong>Connect with me</strong></p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/shamsudheens">LinkedIn</a></li>
+  <li><a href="https://www.instagram.com/sham_su_dheen_">Instagram</a></li>
+</ul>
 
-Languages and Tools
-JavaScript TypeScript HTML CSS ReactJS NodeJS Express MongoDB MySQL Redis RabbitMQ Nginx AWS Git Linux Postman VS-Code Bash Sass Aws
+<p><strong>Languages and Tools</strong></p>
+<p>
+JavaScript TypeScript HTML CSS ReactJS NodeJS Express MongoDB MySQL Redis RabbitMQ
+Nginx AWS Git Linux Postman VS-Code Bash Sass
+</p>
 
-Some of my works
-- [letsellr (live)](https://letsellr.in)
-- [instaviz (live)](https://nextjs-instaviz.vercel.app/)
+<p><strong>Some of my works</strong></p>
+<p>
+<a href="https://letsellr.in">letsellr</a> -
+<a href="https://nextjs-instaviz.vercel.app/">instaviz</a>
+</p>
