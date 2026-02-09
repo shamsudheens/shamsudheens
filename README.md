@@ -1,5 +1,4 @@
 <h2>Hi 👋, I'm Shamsudheen S</h2
-            
 <p><strong>A passionate full-stack developer.</strong></p>
 
 <p>
