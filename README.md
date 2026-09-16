@@ -1,17 +1,21 @@
 <h2>Hi 👋, I'm Shamsudheen S</h2>
 
-
-<p><strong>A passionate full-stack developer.</strong></p>
+<p><strong>Full Stack Developer at Setbin · Flutter + Laravel · MERN</strong></p>
 
 <p>
-I am a full-stack developer with hands-on experience in building scalable web applications.
-Focused on full stack development using the MERN stack.
-Interested in system design, microservices architecture, and AI-powered applications.
-To see my works explore the repos.
+I build and ship products end to end — mobile app, REST API, admin web and cloud deployment.
+At <a href="https://setbinconnect.com">Setbin</a> I own a three-app monorepo: a Flutter app that carries
+<strong>Setbin Connect</strong> (a B2B spare-parts marketplace) and <strong>ServiceFold</strong>
+(billing, service-desk and accounting for mobile repair shops), a Laravel 10 API and a React superadmin
+dashboard, running on Kubernetes on AWS.
+Interested in system design, microservices and AI-powered applications.
 </p>
 
 <ul>
-  <li>💬 Ask me about <strong>MERN</strong></li>
+  <li>📱 <strong>Setbin</strong> — live on the
+    <a href="https://apps.apple.com/in/app/setbin/id6759190154">App Store</a> and
+    <a href="https://play.google.com/store/apps/details?id=com.setbin.setbinconnect">Play Store</a></li>
+  <li>💬 Ask me about <strong>Flutter, Laravel, MERN, Kubernetes</strong></li>
   <li>📫 How to reach me <a href="mailto:shamsudheensofficial@gmail.com">shamsudheensofficial@gmail.com</a></li>
 </ul>
 
@@ -24,12 +28,14 @@ To see my works explore the repos.
 
 <p><strong>Languages and Tools</strong></p>
 <p>
-JavaScript TypeScript HTML CSS ReactJS NodeJS Express MongoDB MySQL Redis RabbitMQ
-Nginx AWS Git Linux Postman VS-Code Bash Sass
+Dart Flutter PHP Laravel JavaScript TypeScript ReactJS NextJS NodeJS Express
+MySQL PostgreSQL MongoDB Redis Meilisearch RabbitMQ
+Docker Kubernetes AWS Cloudflare Nginx Firebase Gemini MCP Git Linux Postman Bash
 </p>
 
 <p><strong>Some of my works</strong></p>
 <p>
-<a href="https://letsellr.in">letsellr</a> -
-<a href="https://nextjs-instaviz.vercel.app/">instaviz</a>
+<a href="https://setbinconnect.com">Setbin</a> -
+<a href="https://nextjs-instaviz.vercel.app/">InstaViz</a> -
+<a href="https://github.com/shamsudheens/xerocare">XeroCare</a>
 </p>
