@@ -35,7 +35,7 @@ Docker Kubernetes AWS Cloudflare Nginx Firebase Gemini MCP Git Linux Postman Bas
 
 <p><strong>Some of my works</strong></p>
 <p>
-<a href="https://setbinconnect.com">Setbin</a> -
+<a href="https://setbin.in">Setbin</a> -
 <a href="https://nextjs-instaviz.vercel.app/">InstaViz</a> -
 <a href="https://github.com/shamsudheens/xerocare">XeroCare</a>
 </p>
