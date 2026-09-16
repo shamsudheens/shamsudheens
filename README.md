@@ -23,7 +23,6 @@ Interested in system design, microservices and AI-powered applications.
 <ul>
   <li><a href="https://www.linkedin.com/in/shamsudheens">LinkedIn</a></li>
   <li><a href="https://www.instagram.com/sham_su_dheen_">Instagram</a></li>
-  <li><a href="https://shamsudheenportfolio.vercel.app/">Portfolio</a></li>
 </ul>
 
 <p><strong>Languages and Tools</strong></p>
